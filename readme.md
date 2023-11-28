@@ -17,7 +17,7 @@ To use this script, you need to clone this repository or download the Python fil
 You can clone the repository using the following command:
 
 ```bash
-https://github.com/mrx-arafat/Blowfish-By-KingBOB.git
+git clone https://github.com/mrx-arafat/Blowfish-By-KingBOB.git
 ```
 
 ## Running the Script
