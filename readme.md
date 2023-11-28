@@ -41,9 +41,6 @@ Data after decryption is : Hello KingBOB
 ```
 
 
-
-Certainly! Here's a rewritten version of your example output for the README, along with the appropriate GitHub repository links and credit acknowledgment:
-
 ---
 
 ## GitHub Repository
