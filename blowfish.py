@@ -320,7 +320,7 @@ def decrypt(data):
     return decrypted_data1
 
 
-# ... [My Mod Here] ...
+# ... [My modification here converted to str] ...
 
 if __name__ == "__main__":
     for i in range(0, 18):
